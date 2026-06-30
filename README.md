@@ -1,6 +1,6 @@
 # Hi there! I'm Nurali 👋
 
-I am a 2nd-year **Software Engineering** student. I am passionate about building scalable backend architectures and leveraging artificial intelligence to solve real-world problems. Currently, I am actively developing my skills to become a robust **Python Backend Developer** and **AI Engineer**.
+I am a 2nd-year **Software Engineering** student at **Astana IT University (AITU)**. I am passionate about building scalable backend architectures and leveraging artificial intelligence to solve real-world problems. Currently, I am actively developing my skills to become a robust **Python Backend Developer** and **AI Engineer**.
 
 ---
 
