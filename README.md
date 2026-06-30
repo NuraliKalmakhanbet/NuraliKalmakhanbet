@@ -30,8 +30,8 @@ I am a 2nd-year **Software Engineering** student. I am passionate about building
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NuraliKalmahanbet&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuraliKalmahanbet&layout=compact&theme=radical" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NuraliKalmakhanbet&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuraliKalmakhanbet&layout=compact&theme=radical" alt="Top Langs" width="48%" />
 </p>
 
 ---
