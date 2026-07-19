@@ -48,4 +48,4 @@ Whether you're looking for an eager intern, need a backend/AI partner for a hack
 * **LinkedIn:** [https://www.linkedin.com/in/nuralikalmakhanbet/](https://www.linkedin.com/in/nuralikalmakhanbet/)
 * **Telegram:** [@Nurali_Kalmakhanbet](https://t.me/Nurali_Kalmakhanbet)
 * **HeadHunter:** [My Resume](https://hh.kz)
-* **Astana Hub:** [https://astanahub.com/account/v2/user/354030/profile/activity/](https://www.linkedin.com/in/nuralikalmakhanbet/)
+* **Astana Hub:** [https://astanahub.com/account/v2/user/354030/profile/activity/](https://astanahub.com/account/v2/user/354030/profile/activity/)
