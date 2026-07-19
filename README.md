@@ -45,7 +45,7 @@ I am a 2nd-year **Software Engineering** student at **Astana IT University (AITU
 ### 💬 Connect with Me
 Whether you're looking for an eager intern, need a backend/AI partner for a hackathon, or just want to talk about tech — feel free to reach out!
 
-* **LinkedIn:** [linkedin.com/in/your_profile](https://linkedin.com/in/nurali-kalmakhanbet-a17b23360/?skipRedirect=true)
+* **LinkedIn:** [https://www.linkedin.com/in/nuralikalmakhanbet/](https://www.linkedin.com/in/nuralikalmakhanbet/)
 * **Telegram:** [@Nurali_Kalmakhanbet](https://t.me/Nurali_Kalmakhanbet)
 * **HeadHunter:** [My Resume](https://hh.kz)
-* **Astana Hub:** [My Profile](https://astanahub.com)
+* **Astana Hub:** [https://astanahub.com/account/v2/user/354030/profile/activity/](https://www.linkedin.com/in/nuralikalmakhanbet/)
