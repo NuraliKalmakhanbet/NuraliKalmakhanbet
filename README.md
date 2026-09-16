@@ -1,10 +1,10 @@
-# Hi there! I'm Nurali 👋
+# Hi there! I'm Nurali
 
 I am a 2nd-year **Software Engineering** student at **Astana IT University (AITU)**. I am passionate about building scalable backend architectures and leveraging artificial intelligence to solve real-world problems. Currently, I am actively developing my skills to become a robust **Python Backend Developer** and **AI Engineer**.
 
 ---
 
-### 🚀 Tech Stack
+###  Tech Stack
 
 **Languages & Databases:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,15 +25,15 @@ I am a 2nd-year **Software Engineering** student at **Astana IT University (AITU
 
 ---
 
-### 🛠️ What I'm Up To
-- 📚 Deepening my knowledge in scalable REST API design, OOP principles, and relational databases.
-- 🤖 Exploring machine learning algorithms, neural networks, and how to seamlessly integrate AI models into backend systems.
-- 💻 Focusing on clean code practices, proper project architecture, and reliable data persistence.
-- 🏆 Actively seeking internship opportunities, hackathons, and open-source projects to collaborate on.
+### What I'm Up To
+-  Deepening my knowledge in scalable REST API design, OOP principles, and relational databases.
+-  Exploring machine learning algorithms, neural networks, and how to seamlessly integrate AI models into backend systems.
+-  Focusing on clean code practices, proper project architecture, and reliable data persistence.
+-  Actively seeking internship opportunities, hackathons, and open-source projects to collaborate on.
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NuraliKalmakhanbet&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="48%" />
@@ -42,7 +42,7 @@ I am a 2nd-year **Software Engineering** student at **Astana IT University (AITU
 
 ---
 
-### 💬 Connect with Me
+###  Connect with Me
 Whether you're looking for an eager intern, need a backend/AI partner for a hackathon, or just want to talk about tech — feel free to reach out!
 
 * **LinkedIn:** [https://www.linkedin.com/in/nuralikalmakhanbet/](https://www.linkedin.com/in/nuralikalmakhanbet/)
